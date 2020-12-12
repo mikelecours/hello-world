@@ -1,2 +1,2 @@
 # hello-world
-Well here we go learning all about gitbub :-)
+Well here we go learning all about github :-)
